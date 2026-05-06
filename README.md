@@ -2,7 +2,7 @@
 
 ### 🎓 Ingeniero Electrónico | Estudiante de Ing. Informática | Full Stack Developer | Hardware Enthusiast
 
-**Soy un apasionado por convergencia entre el hardware y el software**. Mi enfoque principal es la integración de sistemas electrónicos con arquitecturas informáticas modernas, desde la programación a bajo nivel en ensamblador hasta el despliegue de aplicaciones escalables en la nube.
+**Soy un apasionado por la convergencia entre el hardware y el software**. Mi enfoque principal es la integración de sistemas electrónicos con arquitecturas informáticas modernas, desde la programación a bajo nivel en ensamblador hasta el despliegue de aplicaciones escalables en la nube.
 
 ---
 
